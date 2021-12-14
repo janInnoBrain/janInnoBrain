@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jan from Inno Brain
+- 👀 I’m interested in web-development with php and laravel
+- 🌱 I’m currently learning laravel
